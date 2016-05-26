@@ -2,5 +2,5 @@
 first GitHub repo
 
 
-just some randomness to get things going here......
+just some random programs to get things going here...
 
